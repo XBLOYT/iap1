@@ -1,2 +1,2 @@
 # iap1
-Pr
+Practica 1 de IA
