@@ -1,3 +1,5 @@
+package p1;
+
 import aima.search.framework.SuccessorFunction;
 import aima.search.framework.Successor;
 
@@ -9,6 +11,5 @@ public class SFunction implements SuccessorFunction {
         ArrayList retval = new ArrayList();
         
         return retval;
-
     }
 }
