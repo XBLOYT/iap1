@@ -1,9 +1,9 @@
-package p1;
+package main;
 
-List<Client> Clients;
 
 public class Main {
-    
+    List<Client> clients;
+
     public Client getCetral(int id) {
         Central[id].get();
     }
